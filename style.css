@@ -36,3 +36,6 @@ thead{
     color:blue;
     padding-right: 25%
 }
+a{
+    cursor: pointer;
+}
