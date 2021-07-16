@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'cs_avva_shenoudaregular';
+    src: url('fonts/csavvashenouda-webfont.woff2') format('woff2'),
+         url('fants/csavvashenouda-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+table{
+    border: 2px solid #ccc;
+    width: 100%;
+    background-color:black;
+    color:white
+}
+
+
+#coptic{
+    font-family:"cs_avva_shenoudaregular";
+}
+#color tr:nth-child(even){
+    color:lightblue
+}
+h1{
+    text-align: center;
+}
+tbody{
+    font-size:28px;
+}
+.inline{
+    display: inline;
+
+}
+thead{
+    display:none
+}
+#blue{
+    color:blue;
+    padding-right: 25%
+}
